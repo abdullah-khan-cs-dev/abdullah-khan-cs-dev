@@ -1,22 +1,23 @@
-# 👋 Hey, I'm Abdullah Khan!
+# 👋 Hi, I'm Abdullah Khan
 
-### 💻 Programmer | Problem Solver | Lifelong Learner
+### 💻 Computer Science Student | Programmer | Problem Solver
 
-Welcome to my GitHub profile! I'm **Abdullah Khan**, passionate about
-programming, problem-solving, and building my skills through practical learning.
+Welcome to my GitHub profile! I'm **Abdullah Khan**, a Computer Science student
+passionate about programming, problem-solving, and continuous learning.
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-- 💻 Passionate about Programming
+- 🎓 Computer Science Student
+- ☕ Learning & practicing Java
+- 🐍 Learning & practicing Python
+- ⚡ Working with C++
+- 🗄️ Learning SQL
 - 🧩 Interested in Object-Oriented Programming
-- 🐍 Learning and practicing Python
-- ☕ Working with Java
-- ⚡ Practicing C++
 - 🛒 Amazon Seller
-- 🌱 Continuously improving my technical skills
-- 🎯 Goal: Become a skilled Software Developer
+- 🚀 Aspiring Software Developer
+- 🌱 Always learning and improving
 
 ---
 
@@ -28,20 +29,88 @@ programming, problem-solving, and building my skills through practical learning.
   <img src="https://skillicons.dev/icons?i=java,python,cpp" />
 </p>
 
+### Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
 ### Core Concepts
 
 - 🧩 Object-Oriented Programming (OOP)
 - 🧠 Problem Solving
-- 📊 Data Structures & Algorithms — Learning
-- 🔄 Programming Fundamentals
+- 📚 Programming Fundamentals
+- 🗄️ SQL & Database Fundamentals
 
 ---
 
 ## 📚 Currently Learning
 
-```text
-Java          ███████░░░  Improving
-Python        ███████░░░  Improving
-C++           ███████░░░  Improving
-OOP           ████████░░  Improving
-Problem Solving ██████░░░  Improving
+- ☕ Java
+- 🐍 Python
+- ⚡ C++
+- 🗄️ SQL
+- 🧩 Object-Oriented Programming
+- 🧠 Data Structures & Algorithms
+
+---
+
+## 🎯 Goals
+
+- 🚀 Become a skilled Software Developer
+- 💻 Build real-world projects
+- 🧠 Improve problem-solving skills
+- 📚 Strengthen programming fundamentals
+- 🗄️ Improve database knowledge
+- 🤝 Contribute to Open Source
+- 🌐 Build a strong developer portfolio
+
+---
+
+## 📂 Projects
+
+🚧 **Projects are coming soon!**
+
+I'm currently focused on strengthening my programming fundamentals
+and building practical projects.
+
+More projects will be added here as I continue my development journey.
+
+---
+
+## 🛒 Other Experience
+
+### Amazon Seller
+
+Alongside my programming journey, I also have experience as an
+**Amazon Seller**, giving me exposure to e-commerce and online business.
+
+---
+
+## 📈 My GitHub Journey
+
+I use GitHub to:
+
+- 💻 Practice programming
+- 📝 Document my learning
+- 🚀 Share projects
+- 🌱 Track my progress
+- 🤝 Connect with developers
+- 📚 Learn through practical development
+
+---
+
+## 💡 Developer Mindset
+
+> **Learn. Build. Improve. Repeat.**
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in learning new technologies,
+building projects, and connecting with other developers.
+
+---
+
+⭐ **Thanks for visiting my profile!**
